@@ -11,7 +11,7 @@ ilhanabdalle@gmail.com
 </div>
 
 
-I am a Junior Software Engineer, who recently completed training at Makers Academy. I've honed my technical skills in full-stack development particularly with Python, Javascript and Typescript. I have focused on developing my skills in Object-Oriented Programming, debugging, test-driven development, and web application deployment. With a background in customer success, I transitioned to software engineering driven by a passion for problem-solving user needs directly(instead of being an intermediary). 
+I am a Junior Software Engineer, who recently completed training at Makers Academy. I've honed my technical skills in full-stack development particularly with Python, Javascript and Typescript with a focus on developing my skills in Object-Oriented Programming, debugging, test-driven development, and web application deployment. With a background in customer success, I transitioned to software engineering driven by a passion for problem-solving user needs directly(instead of being an intermediary). 
 
 ## Engineering Experience
 
