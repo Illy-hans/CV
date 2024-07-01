@@ -15,7 +15,7 @@ I am a Junior Software Engineer, who recently completed training at Makers Acade
 
 ## Engineering Experience
 
-### Makers Academy                 	                                October 2023 - March 2024
+### Makers Academy                 	                                (_October 2023 - March 2024_)
 
 * Participated in Agile ceremonies like daily stand-ups, sprint planning, retrospectives, and pairing sessions, fostering team collaboration and efficient problem-solving when working on full-stack applications.
 * Gained language agnostic proficiency through rapid exposure to languages and frameworks.
@@ -50,7 +50,7 @@ Throughout my career, I have developed a strong ability to adapt to individual c
 
 
 ## Professional Experience
-#### Customer Advocate - CharlieHR	        November 2021 - October 2023
+#### Customer Advocate - CharlieHR	        (_November 2021 - October 2023_)
 
 * Part of an agile team of three, delivering impactful projects including a 30% churn decrease and boosted customer health by 20%+ within key segments.
 * Spearheaded the implementation of a customer health project, developing the initial calculation matrix with Heroku & SQL, and created monthly reports. 
@@ -59,18 +59,18 @@ Throughout my career, I have developed a strong ability to adapt to individual c
 * I provided mentorship to junior colleagues, guiding their development through training sessions, conducting interviews, and designing interview tasks to assess their skills.
 * Managed all outbound customer communications, maintaining an up-to-date help centre with over 100K monthly views and handling marketing communications for new features. Analysed engagement data and iterated on content across customer platforms to increase engagement. 
 
-#### Customer Success Executive - The First Mile            May 2021 - November 2021
+#### Customer Success Executive - The First Mile            (_May 2021 - November 2021_)
 
 * Experience working with Salesforce and Shopify managing and reporting on customer data. 
 * Oversaw important accounts to cultivate and sustain robust relationships with, while addressing any escalated issues.
 * Handled inbound queries from external stakeholders over the phone and via email in line with company SLA’s. 
 
-#### Restaurant Supervisor - Scully St James's          October 2018 - August 2020
+#### Restaurant Supervisor - Scully St James's          (_October 2018 - August 2020_)
 
 * Responsibilities included maintaining the restaurant's revenue, profitability and quality goals. 
 * Ensuring efficient restaurant operation, as well as maintain high production, productivity, quality, and customer-service standards.
 
-#### Junior Manager - NOPI(Ottolenghi Group)           May 2016 - September 2018
+#### Junior Manager - NOPI(Ottolenghi Group)           (_May 2016 - September 2018_)
 
 * Created and ran a food training programme at NOPI focusing on product sourcing and sustainability, and went on to develope it company-wide.
 * Administrative duties including liaising with suppliers, organising restaurant repairs and handling banking duties.
@@ -79,7 +79,7 @@ Throughout my career, I have developed a strong ability to adapt to individual c
 
 ## Education  
 
-#### Queen Mary University of London	                             (2012 – 2016)
+#### Queen Mary University of London	                             (_2012 – 2016_)
 
 * BA (Hons) Film Studies(2.1)
 
