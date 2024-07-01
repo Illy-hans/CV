@@ -30,7 +30,7 @@ I am a Junior Software Engineer, who recently completed training at Makers Acade
 |----------|----------|----------|
 | <a href="https://github.com/Illy-hans/Quizzordy"> Quizzordy </a>|  A back-end for a quiz app | Typescript, Node, Express, MongoDB, Jest |
 | <a href="https://github.com/Illy-hans/MakerBnb"> MakersBnB </a> | An E-commerce web app based on Airbnb | Python, Pytest, Flask, HTML, CSS, Playwright, PostGreSQL, Bcrypt, Postman|
-| <a href="https://github.com/Illy-hans/Booksy-backend"> Booksy(front-end) </a> <a href="https://github.com/Illy-hans/Booksy-frontend"> Booksy(front-end) </a>| An E-commerce web app book selling service | Javascript, Node, React, Express, Clerk, Stripe, Vite, Jest, React Testing Library |
+| <a href="https://github.com/Illy-hans/Booksy-backend"> Booksy(back-end) </a> <a href="https://github.com/Illy-hans/Booksy-frontend"> Booksy(front-end) </a>| An E-commerce web app book selling service | Javascript, Node, React, Express, Clerk, Stripe, Vite, Jest, React Testing Library |
 
 
 ## Skills
