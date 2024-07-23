@@ -28,9 +28,9 @@ I am a Junior Software Engineer, who recently completed training at Makers Acade
 ## Projects
 | Project | Description | Tech |
 |----------|----------|----------|
-| <a href="https://github.com/Illy-hans/Quizzordy"> Quizzordy </a>|  A back-end for a quiz app | Typescript, Node, Express, MongoDB, Jest |
-| <a href="https://github.com/Illy-hans/MakerBnb"> MakersBnB </a> | An E-commerce web app based on Airbnb | Python, Pytest, Flask, HTML, CSS, Playwright, PostGreSQL, Bcrypt, Postman|
-| <a href="https://github.com/Illy-hans/Booksy-backend"> Booksy(back-end) </a> <a href="https://github.com/Illy-hans/Booksy-frontend"> Booksy(front-end) </a>| An E-commerce web app book selling service | Javascript, Node, React, Express, Clerk, Stripe, Vite, Jest, React Testing Library |
+| <a href="https://github.com/Illy-hans/Quizzordy"> Quizzordy(backend) </a> < href="https://github.com/Illy-hans/Quiz-front"> Quizzordy(frontend) <a/>|  A full stack quiz app where users can sign up, login and complete a quiz. | Typescript, React, Node, Vite, Express, MongoDB, DaisyUI, TailwindCSS, Jest, Vitest, Mock Service Worker |
+| <a href="https://github.com/Illy-hans/MakerBnb"> MakersBnB </a> | A full stack E-commerce web app based on Airbnb, users can create an account, check availability and book a listing. | Python, Pytest, Flask, HTML, CSS, Playwright, PostGreSQL, Bcrypt, Postman|
+| <a href="https://github.com/Illy-hans/Booksy-backend"> Booksy(back-end) </a> <a href="https://github.com/Illy-hans/Booksy-frontend"> Booksy(front-end) </a>| An E-commerce web app book selling service, users can create an account, search & favourite books, and complete checkout with Stripe. | Javascript, Node, React, Express, Clerk, Stripe, Vite, Jest, React Testing Library |
 
 
 ## Skills
@@ -53,6 +53,7 @@ Throughout my career, I have developed a strong ability to adapt to individual c
 #### Customer Advocate - CharlieHR	        (_November 2021 - October 2023_)
 
 * Part of an agile team of three, delivering impactful projects including a 30% churn decrease and boosted customer health by 20%+ within key segments.
+* Conducted bug triaging both before and after release, collaborating closely with engineering during the post-release phase to prioritize subsequent bug fixes.
 * Spearheaded the implementation of a customer health project, developing the initial calculation matrix with Heroku & SQL, and created monthly reports. 
 * Organised, designed and implemented projects engaging external stakeholders through 1:1 and 1-to-many product demos, enhancing expertise in conveying technical ideas/concepts to a non-technical person.
 * Led effective meetings with internal stakeholders to discuss monthly KPIs and Customer Success metrics, ensuring clear communication of strategies, this included negotiating feature trade-offs with product owners. 
